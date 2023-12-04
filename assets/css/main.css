@@ -3,14 +3,17 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #e3f2fd;
+    /*background-color: #e3f2fd;*/
+    background-image: url('../images/piso-de-madeira-marrom.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
 }
 
 .container {
     width: auto;
     border-radius: 20px;
-    padding: 100px 40px;
+    padding: 50px 40px;
     background-color: #000;
 }
 
